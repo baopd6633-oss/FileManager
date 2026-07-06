@@ -1,0 +1,7 @@
+HOST = "0.0.0.0"
+
+PORT = 5000
+
+BUFFER_SIZE = 4096
+
+DB_PATH = "server.db"
